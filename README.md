@@ -1,4 +1,4 @@
-![cover](github-banner.png)
+![cover](readme-banner.png)
 
 ### Welcome / Karibu
 I'm a Software Engineer/Developer (whichever floats your ⛵ ) that's passionate about learning and building things that bring value to people. Overtime I've worked on a range of things and the repos you'll find here reflect that. Apart from personal projects, there some educational/instructional repos for when I teach web dev at boot camps. 
