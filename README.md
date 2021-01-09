@@ -43,6 +43,17 @@ When I'm not coding, I'm most probably working on my other creative interests (d
 
 🔔  [See more & subscribe...](https://www.youtube.com/channel/UCI1Z9YtIaqgffwgxnhyOlEg)
 
+
+---
+<img alt="reMRKable Dev's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=reMRKableDev&show_icons=true&hide_border=true" />
+
+---
+**Acknowledgements**
+
+<sub>This layout structure is inspired by [codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)</sub>
+
+<sub>GitHub stats from repo [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) by [Anurag Hazra](https://github.com/anuraghazra)</sub>
+
 <!--
 **reMRKableDev/reMRKableDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
