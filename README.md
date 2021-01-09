@@ -23,11 +23,11 @@ When I'm not coding, I'm most probably working on my other creative interests (d
  
 🤝  Connect with me on social media:
 
-[<img align="left" alt="reMRKable Dev Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />](https://www.instagram.com/remrkabledev/)
-[<img align="left" alt="reMRKable Dev Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/facebook.svg" />](https://www.facebook.com/remrkabledev)
-[<img align="left" alt="reMRKable Dev Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/youtube.svg" />](https://www.youtube.com/channel/UCI1Z9YtIaqgffwgxnhyOlEg)
-[<img align="left" alt="reMRKable Dev Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />](https://www.linkedin.com/in/malcolmkente/)
-[<img align="left" alt="reMRKable Dev Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" />](https://twitter.com/remrkabledev)
+[<img align="left" alt="reMRKable Dev Instagram" width="22px" src="https://github.com/reMRKableDev/reMRKableDev/blob/main/instagram.svg" />](https://www.instagram.com/remrkabledev/)
+[<img align="left" alt="reMRKable Dev Instagram" width="22px" src="https://github.com/reMRKableDev/reMRKableDev/blob/main/facebook.svg" />](https://www.facebook.com/remrkabledev)
+[<img align="left" alt="reMRKable Dev Instagram" width="22px" src="https://github.com/reMRKableDev/reMRKableDev/blob/main/youtube.svg" />](https://www.youtube.com/channel/UCI1Z9YtIaqgffwgxnhyOlEg)
+[<img align="left" alt="reMRKable Dev Instagram" width="22px" src="https://github.com/reMRKableDev/reMRKableDev/blob/main/linkedin.svg" />](https://www.linkedin.com/in/malcolmkente/)
+[<img align="left" alt="reMRKable Dev Instagram" width="22px" src="https://github.com/reMRKableDev/reMRKableDev/blob/main/twitter.svg" />](https://twitter.com/remrkabledev)
 
 <br />
 
