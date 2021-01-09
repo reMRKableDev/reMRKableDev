@@ -12,17 +12,18 @@ I'm a Software Engineer/Developer (whichever floats your ⛵ ) that's passionate
 
 🌱 I’m currently learning TypeScript.
 
-🥅 My goals for the upcoming year are: 
+🥅  My goals for the upcoming year are: 
  - To finish off the projects I've started on.
  - To contribute more to Open Source Projects (still a bit intimidated by this to be honest 😋).
  - To have more proficiency in TypeScript.
  
-🤝 Connect with me on:
-[<img align="left" alt="reMRKable Dev Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
+🤝  Connect with me on:
 
-🎭 When I'm not coding, I'm most probably working on my other creative interests (dance, music, poetry, etc). A few years back, a couple friends and I co-founded [Fuse Fam Collective](https://www.fusefam.com/). Check out what we do here
+[<img align="left" alt="reMRKable Dev Instagram" width="22px" style="fill:#6CD6D6;" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />](https://www.instagram.com/remrkabledev/)
 
-[instagram]: https://www.instagram.com/remrkabledev/
+
+🎭 When I'm not coding, I'm most probably working on my other creative interests (dance, music, poetry, etc). A few years back, a couple friends and I co-founded [Fuse Fam Collective](https://www.fusefam.com/)
+
 
 <!--
 **reMRKableDev/reMRKableDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
