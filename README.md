@@ -34,6 +34,11 @@ When I'm not coding, I'm most probably working on my other creative interests (d
 ---
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [3 Basics of Web Development](https://www.youtube.com/watch?v=uYDoitJkcmM)
+- [Learn HTML & CSS part 3](https://www.youtube.com/watch?v=7JQd_xxX3ro)
+- [Learn HTML & CSS part 2](https://www.youtube.com/watch?v=BN0S3Tv7OnI)
+- [Learn HTML & CSS part 1](https://www.youtube.com/watch?v=mdcGxKY5nDo)
+- [10 Reasons To Start Coding](https://www.youtube.com/watch?v=ejAMWoP8CDc)
 <!-- YOUTUBE:END -->
 
 
