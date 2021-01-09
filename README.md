@@ -41,7 +41,7 @@ When I'm not coding, I'm most probably working on my other creative interests (d
 - [10 Reasons To Start Coding](https://www.youtube.com/watch?v=ejAMWoP8CDc)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://www.youtube.com/channel/UCI1Z9YtIaqgffwgxnhyOlEg)
+🔔  [See more & subscribe...](https://www.youtube.com/channel/UCI1Z9YtIaqgffwgxnhyOlEg)
 
 <!--
 **reMRKableDev/reMRKableDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
