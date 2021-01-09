@@ -1,4 +1,5 @@
-![cover](github-banner.png)
+
+<img src="https://github.com/reMRKableDev/reMRKableDev/blob/main/github-banner.png" width="100%" height="400">
 
 ### Welcome / Karibu
 I'm a Software Engineer/Developer (whichever floats your ⛵ ) that's passionate about learning and building things that bring value to people. Overtime I've worked on a range of things and the repos you'll find here reflect that. Apart from personal projects, there some educational/instructional repos for when I teach web dev at boot camps. 
