@@ -17,10 +17,17 @@ I'm a Software Engineer/Developer (whichever floats your ⛵ ) that's passionate
  - To contribute more to Open Source Projects (still a bit intimidated by this to be honest 😋).
  - To have more proficiency in TypeScript.
  
-🤝  Connect with me on:
+🤝  Connect with me on social media:
 
-[<img align="left" alt="reMRKable Dev Instagram" width="22px" style="fill:#6CD6D6;" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />](https://www.instagram.com/remrkabledev/)
+[<img align="left" alt="reMRKable Dev Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />](https://www.instagram.com/remrkabledev/)
+[<img align="left" alt="reMRKable Dev Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/facebook.svg" />](https://www.facebook.com/remrkabledev)
+[<img align="left" alt="reMRKable Dev Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/youtube.svg" />](https://www.youtube.com/channel/UCI1Z9YtIaqgffwgxnhyOlEg)
+[<img align="left" alt="reMRKable Dev Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />](https://www.linkedin.com/in/malcolmkente/)
+[<img align="left" alt="reMRKable Dev Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" />](https://twitter.com/remrkabledev)
 
+
+<br />
+<br />
 
 🎭 When I'm not coding, I'm most probably working on my other creative interests (dance, music, poetry, etc). A few years back, a couple friends and I co-founded [Fuse Fam Collective](https://www.fusefam.com/)
 
