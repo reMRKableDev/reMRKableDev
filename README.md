@@ -21,6 +21,9 @@ When I'm not coding, I'm most probably working on my other creative interests (d
  - To contribute more to Open Source Projects (still a bit intimidated by this to be honest 😋 ).
  - To have more proficiency in TypeScript.
  
+ <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 🤝  Connect with me on social media:
 
 [<img align="left" alt="reMRKable Dev Instagram" width="22px" src="https://github.com/reMRKableDev/reMRKableDev/blob/main/instagram.svg" />](https://www.instagram.com/remrkabledev/)
