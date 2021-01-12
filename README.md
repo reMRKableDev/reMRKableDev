@@ -22,6 +22,13 @@ When I'm not coding, I'm most probably working on my other creative interests (d
  - To have more proficiency in TypeScript.
  
  <!--START_SECTION:waka-->
+```text
+JavaScript   7 hrs 3 mins    █████████████████████▒░░░   84.87 % 
+HTML         50 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
+Other        11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+TypeScript   11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+```
 <!--END_SECTION:waka-->
 
 🤝  Connect with me on social media:
