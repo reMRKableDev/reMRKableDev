@@ -21,6 +21,7 @@ When I'm not coding, I'm most probably working on my other creative interests (d
  - To contribute more to Open Source Projects (still a bit intimidated by this to be honest 😋 ).
  - To have more proficiency in TypeScript.
  
+ 📊 My weekly development towards my goals this year: 
  <!--START_SECTION:waka-->
 ```text
 JavaScript   7 hrs 3 mins    █████████████████████▒░░░   84.87 % 
