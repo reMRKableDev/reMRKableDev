@@ -21,7 +21,7 @@ When I'm not coding, I'm most probably working on my other creative interests (d
  - To contribute more to Open Source Projects (still a bit intimidated by this to be honest 😋 ).
  - To have more proficiency in TypeScript.
  
-📊 My weekly development towards my goals this year: 
+🧑🏾‍💻 My weekly development towards my goals this year: 
  <!--START_SECTION:waka-->
 ```text
 JavaScript   7 hrs 3 mins    █████████████████████▒░░░   84.87 % 
@@ -61,9 +61,11 @@ JSON         1 min           ░░░░░░░░░░░░░░░░░
 ---
 **Acknowledgements**
 
-<sub>This layout structure is inspired by [codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)</sub>
+<sub>This layout structure is inspired by [codeSTACKr](https://github.com/codeSTACKr/codeSTACKr).</sub>
 
-<sub>GitHub stats from repo [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) by [Anurag Hazra](https://github.com/anuraghazra)</sub>
+<sub>GitHub stats from repo [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) by [Anurag Hazra](https://github.com/anuraghazra).</sub>
+
+<sub>Weekly Wakatime Metrics from repo [waka-readme](https://github.com/athul/waka-readme) by [Athul](https://github.com/athul).</sub>
 
 <!--
 **reMRKableDev/reMRKableDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
