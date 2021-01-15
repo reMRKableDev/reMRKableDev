@@ -1,9 +1,9 @@
 ![cover](readme-banner.png)
 
 ### Welcome / Karibu <a href="https://www.remrkabledev.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-I'm a Software Engineer/Developer (whichever floats your ⛵ ) that's passionate about learning and building things that bring value to people. Overtime I've worked on a range of things and the repos you'll find here reflect that. Apart from personal projects, there some educational/instructional repos for when I teach web dev at boot camps. 
+I'm a Software Engineer/Developer (whichever floats your ⛵ ) passionate about learning and building things that bring value to people. Over time I've worked on a range of things, and the repos you'll find here reflect that. Apart from personal projects, you'll find some educational/instructional repos when I teach web dev at boot camps.
 
-When I'm not coding, I'm most probably working on my other creative interests (dance, music, poetry, etc). A few years back, a couple friends and I co-founded [Fuse Fam Collective](https://www.fusefam.com/) 🎭 .
+When I'm not coding, I'm probably working on my other creative interests (dance, music, poetry, etc.). A few years back, a couple of friends and I co-founded [Fuse Fam Collective](https://www.fusefam.com/) 🎭 .
 
 ### Some About Me's for You to Know <a href="https://github.com/reMRKableDev/"><img src="https://media.giphy.com/media/KJpeo4drhc1WJnEQBr/giphy.gif" width="50px"></a>
 
@@ -11,14 +11,14 @@ When I'm not coding, I'm most probably working on my other creative interests (d
 
 🔭 I’m currently working on:
  - A Proof Of Concept (POC) for a Learning Management System made with Node.js & HBS, check it out [here](https://github.com/reMRKableDev/OnLearn).
- - An online tool for SoloPreneurs to start and run their businesses effectively (still in design phase).
+ - An online tool for SoloPreneurs to start and run their businesses effectively (still in the design phase).
  - An interactive map (POC) to highlight the diverse range of guests based on location for the podcast Dance Specific Talks (A podcast made by Dancers, for Dancers), check it out [here](https://github.com/reMRKableDev/dance-specific-talks).
 
 🌱 I’m currently learning TypeScript.
 
 🥅  My goals for the upcoming year are: 
  - To finish off the projects I've started on.
- - To contribute more to Open Source Projects (still a bit intimidated by this to be honest 😋 ).
+ - To contribute more to Open Source Projects (still a bit intimidated by this, to be honest 😋 ).
  - To have more proficiency in TypeScript.
  
 🧑🏾‍💻 My weekly development towards my goals this year: 
