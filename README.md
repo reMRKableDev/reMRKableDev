@@ -12,7 +12,7 @@ When I'm not coding, I'm probably working on my other creative interests (dance,
 🔭 I’m currently working on:
  - A Proof Of Concept (POC) for a Learning Management System made with Node.js & HBS, check it out [here](https://github.com/reMRKableDev/OnLearn).
  - An online tool for SoloPreneurs to start and run their businesses effectively (still in the design phase).
- - An interactive map (POC) to highlight the diverse range of guests based on location for the podcast Dance Specific Talks (A podcast made by Dancers, for Dancers), check it out [here](https://github.com/reMRKableDev/dance-specific-talks).
+ - An interactive map (POC) to highlight the diverse range of guests based on location for the podcast Dance Specific Talks (A podcast made by Dancers, for Dancers), check it out [here](https://github.com/reMRKableDev/ds-talks).
 
 🌱 I’m currently learning TypeScript.
 
