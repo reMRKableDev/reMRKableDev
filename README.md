@@ -43,6 +43,12 @@ Markdown     3 mins          ░░░░░░░░░░░░░░░░░
 <br />
 
 ---
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
+
+---
 ### Latest YouTube Videos <a href="https://www.youtube.com/channel/UCI1Z9YtIaqgffwgxnhyOlEg"><img src="https://media.giphy.com/media/XFoo2uHl91sLld9m1H/giphy.gif" width="100px"></a>
 <!-- YOUTUBE:START -->
 - [3 Basics of Web Development](https://www.youtube.com/watch?v=uYDoitJkcmM)
