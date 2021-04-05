@@ -46,6 +46,7 @@ Markdown     3 mins          ░░░░░░░░░░░░░░░░░
 <!-- BLOG-POST-LIST:START -->
 ### Latest Blog Posts <a href="https://dev.to/remrkabledev"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Malcolm R. Kente's DEV Community Profile" height="30" width="30"></a>
 
+📝 [Checkout more blog posts...](https://dev.to/remrkabledev)
 <!-- BLOG-POST-LIST:END -->
 
 
