@@ -43,6 +43,9 @@ Markdown     3 mins          ░░░░░░░░░░░░░░░░░
 <br />
 
 ---
+### Latest YouTube Videos <a href="https://dev.to/remrkabledev">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Malcolm R. Kente's DEV Community Profile" height="30" width="30">
+</a>
 <!-- BLOG-POST-LIST:START -->
 - [Scrolling Text Animation With Funky Borders](https://dev.to/remrkabledev/scrolling-text-animation-with-funky-borders-4ckm)
 - [Nesting Template Literals: A Recommended Approach](https://dev.to/remrkabledev/nesting-template-literals-a-recommended-approach-2jgj)
@@ -50,6 +53,8 @@ Markdown     3 mins          ░░░░░░░░░░░░░░░░░
 - [First Impressions & Conversion Rates](https://dev.to/remrkabledev/first-impressions-conversion-rates-1b14)
 - [Helper Functions for Assertions (Jest & Node.js)](https://dev.to/remrkabledev/helper-functions-for-assertions-jest-node-js-3n11)
 <!-- BLOG-POST-LIST:END -->
+
+📝 More blog posts...
 
 
 ---
