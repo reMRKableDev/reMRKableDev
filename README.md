@@ -44,9 +44,11 @@ Markdown     3 mins          ░░░░░░░░░░░░░░░░░
 
 ---
 <!-- BLOG-POST-LIST:START -->
-### Latest Blog Posts <a href="https://dev.to/remrkabledev"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Malcolm R. Kente's DEV Community Profile" height="30" width="30"></a>
-
-📝 [Checkout more blog posts...](https://dev.to/remrkabledev)
+- [Scrolling Text Animation With Funky Borders](https://dev.to/remrkabledev/scrolling-text-animation-with-funky-borders-4ckm)
+- [Nesting Template Literals: A Recommended Approach](https://dev.to/remrkabledev/nesting-template-literals-a-recommended-approach-2jgj)
+- [Testing with MongoDB-Memory-Server](https://dev.to/remrkabledev/testing-with-mongodb-memory-server-4ja2)
+- [First Impressions & Conversion Rates](https://dev.to/remrkabledev/first-impressions-conversion-rates-1b14)
+- [Helper Functions for Assertions (Jest & Node.js)](https://dev.to/remrkabledev/helper-functions-for-assertions-jest-node-js-3n11)
 <!-- BLOG-POST-LIST:END -->
 
 
