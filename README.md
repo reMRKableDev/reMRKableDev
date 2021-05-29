@@ -69,7 +69,8 @@ Markdown     36 mins         ▓░░░░░░░░░░░░░░░░
 
 
 ---
-<img alt="reMRKable Dev's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=reMRKableDev&show_icons=true&hide_border=true" />
+[![reMRKable Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=reMRKableDev)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 **Acknowledgements**
