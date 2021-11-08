@@ -48,8 +48,8 @@ JSON         15 mins         ▒░░░░░░░░░░░░░░░░
 - [Scrolling Text Animation With Funky Borders](https://dev.to/remrkabledev/scrolling-text-animation-with-funky-borders-4ckm)
 - [Nesting Template Literals: A Recommended Approach](https://dev.to/remrkabledev/nesting-template-literals-a-recommended-approach-2jgj)
 - [Testing with MongoDB-Memory-Server](https://dev.to/remrkabledev/testing-with-mongodb-memory-server-4ja2)
-- [First Impressions & Conversion Rates](https://dev.to/remrkabledev/first-impressions-conversion-rates-1b14)
-- [Helper Functions for Assertions (Jest & Node.js)](https://dev.to/remrkabledev/helper-functions-for-assertions-jest-node-js-3n11)
+- [First Impressions &amp; Conversion Rates](https://dev.to/remrkabledev/first-impressions-conversion-rates-1b14)
+- [Helper Functions for Assertions &lpar;Jest &amp; Node.js&rpar;](https://dev.to/remrkabledev/helper-functions-for-assertions-jest-node-js-3n11)
 <!-- BLOG-POST-LIST:END -->
 
 📝 [More blog posts...](https://dev.to/remrkabledev)
