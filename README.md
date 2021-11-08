@@ -59,9 +59,9 @@ JSON         15 mins         ▒░░░░░░░░░░░░░░░░
 ### Latest YouTube Videos <a href="https://www.youtube.com/channel/UCI1Z9YtIaqgffwgxnhyOlEg"><img src="https://media.giphy.com/media/XFoo2uHl91sLld9m1H/giphy.gif" width="100px"></a>
 <!-- YOUTUBE:START -->
 - [3 Basics of Web Development](https://www.youtube.com/watch?v=uYDoitJkcmM)
-- [Learn HTML & CSS part 3](https://www.youtube.com/watch?v=7JQd_xxX3ro)
-- [Learn HTML & CSS part 2](https://www.youtube.com/watch?v=BN0S3Tv7OnI)
-- [Learn HTML & CSS part 1](https://www.youtube.com/watch?v=mdcGxKY5nDo)
+- [Learn HTML &amp; CSS part 3](https://www.youtube.com/watch?v=7JQd_xxX3ro)
+- [Learn HTML &amp; CSS part 2](https://www.youtube.com/watch?v=BN0S3Tv7OnI)
+- [Learn HTML &amp; CSS part 1](https://www.youtube.com/watch?v=mdcGxKY5nDo)
 - [10 Reasons To Start Coding](https://www.youtube.com/watch?v=ejAMWoP8CDc)
 <!-- YOUTUBE:END -->
 
