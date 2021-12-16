@@ -24,8 +24,7 @@ When I'm not coding, I'm probably working on my other creative interests (dance,
 🧑🏾‍💻 My weekly development towards my goals this year: 
  <!--START_SECTION:waka-->
 ```text
-JSX          16 mins         ████████████▒░░░░░░░░░░░░   49.02 % 
-SCSS         15 mins         ████████████░░░░░░░░░░░░░   47.44 % 
+JSX          11 mins         ██████████████████████▓░░   90.80 % 
 ```
 <!--END_SECTION:waka-->
 
