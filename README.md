@@ -8,18 +8,13 @@ When I'm not coding, I'm probably working on my other creative interests (dance,
 ### Some About Me's for You to Know <a href="https://github.com/reMRKableDev/"><img src="https://media.giphy.com/media/KJpeo4drhc1WJnEQBr/giphy.gif" width="50px"></a>
 
 📍 I'm currently located in Amsterdam, NL.
-
-🔭 I’m currently working on:
- - A Proof Of Concept (POC) for a Learning Management System made with Node.js & HBS, check it out [here](https://github.com/reMRKableDev/OnLearn).
- - An online tool for SoloPreneurs to start and run their businesses effectively (still in the design phase).
- - An interactive map (POC) to highlight the diverse range of guests based on location for the podcast Dance Specific Talks (A podcast made by Dancers, for Dancers), check it out [here](https://github.com/reMRKableDev/ds-talks).
-
-🌱 I’m currently learning TypeScript.
+🔭 I currently work as Tech Lead at [AskPhill](https://www.askphill.com/).
+🌱 I’m currently learning about developing on the blockchain.
 
 🥅  My goals for the upcoming year are: 
  - To finish off the projects I've started on.
- - To contribute more to Open Source Projects (still a bit intimidated by this, to be honest 😋 ).
- - To have more proficiency in TypeScript.
+ - To learn the fundamentals of building on the blockchain.
+ - To have more proficiency in functional programming.
  
 🧑🏾‍💻 My weekly development towards my goals this year: 
  <!--START_SECTION:waka-->
