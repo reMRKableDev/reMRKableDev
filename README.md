@@ -8,7 +8,9 @@ When I'm not coding, I'm probably working on my other creative interests (dance,
 ### Some About Me's for You to Know <a href="https://github.com/reMRKableDev/"><img src="https://media.giphy.com/media/KJpeo4drhc1WJnEQBr/giphy.gif" width="50px"></a>
 
 📍 I'm currently located in Amsterdam, NL.
+
 🔭 I currently work as Tech Lead at [AskPhill](https://www.askphill.com/).
+
 🌱 I’m currently learning about developing on the blockchain.
 
 🥅  My goals for the upcoming year are: 
