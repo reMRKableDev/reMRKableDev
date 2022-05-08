@@ -22,11 +22,10 @@ When I'm not coding, I'm probably working on my other creative interests (dance,
  <!--START_SECTION:waka-->
 
 ```text
-JavaScript   22 hrs 50 mins  ████████████████████████▒   96.85 %
-SCSS         26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
-Markdown     12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
-JSON         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+JavaScript   18 hrs 22 mins  ████████████████████████░   96.59 %
+SCSS         23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+Markdown     12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
