@@ -5,7 +5,7 @@ I'm a Software Engineer/Developer (whichever floats your ⛵ ) passionate about 
 
 When I'm not coding, I'm probably working on my other creative interests (dance, music, poetry, etc.). A few years back, a couple of friends and I co-founded [Fuse Fam Collective](https://www.fusefam.com/) 🎭 .
 
-### Some About Me's for You to Know <a href="https://github.com/reMRKableDev/"><img src="https://media.giphy.com/media/KJpeo4drhc1WJnEQBr/giphy.gif" width="50px"></a>
+### Some About Me's for You to Know <a href="https://github.com/reMRKableDev/"><img src="https://media.giphy.com/media/KJpeo4drhc1WJnEQBr/giphy.gif" width="20px"></a>
 
 📍 I'm currently located in Amsterdam, NL.
 
