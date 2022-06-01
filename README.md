@@ -1,11 +1,11 @@
 ![cover](readme-banner.png)
 
-### Welcome / Karibu <a href="https://www.remrkabledev.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+### Welcome / Karibu 👋🏾
 I'm a Software Engineer/Developer (whichever floats your ⛵ ) passionate about learning and building things that bring value to people. Over time I've worked on a range of things, and the repos you'll find here reflect that. Apart from personal projects, you'll find some educational/instructional repos when I teach web dev at boot camps.
 
 When I'm not coding, I'm probably working on my other creative interests (dance, music, poetry, etc.). A few years back, a couple of friends and I co-founded [Fuse Fam Collective](https://www.fusefam.com/) 🎭 .
 
-### Some About Me's for You to Know <a href="https://github.com/reMRKableDev/"><img src="https://media.giphy.com/media/KJpeo4drhc1WJnEQBr/giphy.gif" width="20px"></a>
+### Some About Me's for You to Know
 
 📍 I'm currently located in Amsterdam, NL.
 
@@ -42,7 +42,7 @@ Other        3 mins          ░░░░░░░░░░░░░░░░░
 <br />
 
 ---
-### Latest Blog Posts <a href="https://dev.to/remrkabledev"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Malcolm R. Kente's DEV Community Profile" height="30" width="30"></a>
+### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Scrolling Text Animation With Funky Borders](https://dev.to/remrkabledev/scrolling-text-animation-with-funky-borders-4ckm)
 - [Nesting Template Literals: A Recommended Approach](https://dev.to/remrkabledev/nesting-template-literals-a-recommended-approach-2jgj)
@@ -55,7 +55,7 @@ Other        3 mins          ░░░░░░░░░░░░░░░░░
 
 
 ---
-### Latest YouTube Videos <a href="https://www.youtube.com/channel/UCI1Z9YtIaqgffwgxnhyOlEg"><img src="https://media.giphy.com/media/XFoo2uHl91sLld9m1H/giphy.gif" width="100px"></a>
+### Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [3 Basics of Web Development](https://www.youtube.com/watch?v=uYDoitJkcmM)
 - [Learn HTML &amp; CSS part 3](https://www.youtube.com/watch?v=7JQd_xxX3ro)
