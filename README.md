@@ -22,8 +22,7 @@ When I'm not coding, I'm probably working on my other creative interests (dance,
  <!--START_SECTION:waka-->
 
 ```text
-Bash    0 secs          █████████████████▒░░░░░░░   69.91 %
-Other   0 secs          ███████▓░░░░░░░░░░░░░░░░░   30.09 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
