@@ -22,12 +22,12 @@ When I'm not coding, I'm probably working on my other creative interests (dance,
  <!--START_SECTION:waka-->
 
 ```text
-JavaScript   3 hrs 10 mins   ███████████▓░░░░░░░░░░░░░   46.86 %
-Liquid       1 hr 20 mins    █████░░░░░░░░░░░░░░░░░░░░   19.69 %
-JSON         1 hr 5 mins     ████░░░░░░░░░░░░░░░░░░░░░   16.09 %
-SCSS         55 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.61 %
-Bash         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
-CSS          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+JavaScript   3 hrs 10 mins   ███████████▓░░░░░░░░░░░░░   46.37 %
+Liquid       1 hr 20 mins    █████░░░░░░░░░░░░░░░░░░░░   19.62 %
+JSON         1 hr 5 mins     ████░░░░░░░░░░░░░░░░░░░░░   15.92 %
+SCSS         55 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.46 %
+CSS          9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
+Bash         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
 ```
 
 <!--END_SECTION:waka-->
