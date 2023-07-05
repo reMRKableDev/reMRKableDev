@@ -9,7 +9,7 @@ When I'm not coding, I'm probably working on my other creative interests (dance,
 
 📍 I'm currently located in Amsterdam, NL.
 
-🔭 I currently work as Tech Lead at [AskPhill](https://www.askphill.com/).
+🔭 I currently work as Tech Lead & Frontend Developer at [AskPhill](https://www.askphill.com/).
 
 🌱 I’m currently learning about developing on the blockchain.
 
