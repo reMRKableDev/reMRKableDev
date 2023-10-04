@@ -22,11 +22,11 @@ When I'm not coding, I'm probably working on my other creative interests (dance,
  <!--START_SECTION:waka-->
 
 ```txt
-GDScript3    10 hrs 58 mins  ████████████████░░░░░░░░░   63.45 %
-JSON         1 hr 56 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.26 %
-JavaScript   1 hr 50 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.62 %
-Other        1 hr 13 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 %
-Ezhil        46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
+GDScript3    18 hrs 43 mins  █████████████████░░░░░░░░   68.20 %
+JavaScript   4 hrs 49 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.59 %
+Other        2 hrs 3 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 %
+JSON         1 hr 30 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
+Markdown     11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
 ```
 
 <!--END_SECTION:waka-->
