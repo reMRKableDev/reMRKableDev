@@ -9,14 +9,12 @@ When I'm not coding, I'm probably working on my other creative interests (dance,
 
 📍 I'm currently located in Amsterdam, NL.
 
-🔭 I currently work as Tech Lead & Frontend Developer at [AskPhill](https://www.askphill.com/).
+🔭 I currently work as Engineering Manager at [AskPhill](https://www.askphill.com/).
 
-🌱 I’m currently learning about developing on the blockchain.
+🌱 I’m currently getting back to having fun with building small projects.
 
 🥅  My goals for the upcoming year are: 
- - To finish off the projects I've started on.
- - To learn the fundamentals of building on the blockchain.
- - To have more proficiency in functional programming.
+ - To keep building more when I can
  
 🧑🏾‍💻 My weekly development towards my goals this year: 
  <!--START_SECTION:waka-->
