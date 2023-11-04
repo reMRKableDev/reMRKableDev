@@ -3,7 +3,7 @@
 ### Welcome / Karibu 👋🏾
 I'm a Software Engineer/Developer (whichever floats your ⛵ ) passionate about learning and building things that bring value to people. Over time I've worked on a range of things, and the repos you'll find here reflect that. Apart from personal projects, you'll find some educational/instructional repos when I teach web dev at boot camps.
 
-When I'm not coding, I'm probably working on my other creative interests (dance, music, poetry, etc.). A few years back, a couple of friends and I co-founded [Fuse Fam Collective](https://www.fusefam.com/) 🎭 .
+When I'm not coding, I'm probably working on my other creative interests (dance, music, poetry, etc.). A few years back, a couple of friends and I co-founded [Fuse Fam Collective](https://www.instagram.com/fusefamcollective/?hl=en) 🎭 .
 
 ### Some About Me's for You to Know
 
