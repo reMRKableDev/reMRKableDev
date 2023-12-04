@@ -20,10 +20,10 @@ When I'm not coding, I'm probably working on my other creative interests (dance,
  <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   13 mins         ████████████░░░░░░░░░░░░░   48.14 %
-JSON         11 mins         ██████████▒░░░░░░░░░░░░░░   41.81 %
-Liquid       2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 %
-Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+JSON         10 mins         ██████████████████░░░░░░░   72.45 %
+Liquid       2 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.32 %
+JavaScript   1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   08.84 %
+Other        0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
 ```
 
 <!--END_SECTION:waka-->
