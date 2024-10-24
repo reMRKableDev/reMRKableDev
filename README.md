@@ -20,8 +20,8 @@ When I'm not coding, I'm probably working on my other creative interests (dance,
  <!--START_SECTION:waka-->
 
 ```txt
-CSS    49 mins         ███████████████████░░░░░░   75.62 %
-HTML   16 mins         ██████░░░░░░░░░░░░░░░░░░░   24.38 %
+CSS    55 mins         ███████████████████▒░░░░░   77.66 %
+HTML   16 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.34 %
 ```
 
 <!--END_SECTION:waka-->
