@@ -20,11 +20,11 @@ When I'm not coding, I'm probably working on my other creative interests (dance,
  <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   7 hrs 40 mins   ██████████████████████▒░░   89.09 %
-Other        26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
-TypeScript   19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
-TOML         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
-JSON         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+JavaScript   7 hrs 20 mins   ██████████████████████░░░   88.65 %
+Other        26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
+TypeScript   19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
+TOML         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+JSON         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
 ```
 
 <!--END_SECTION:waka-->
