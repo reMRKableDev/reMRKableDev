@@ -20,7 +20,10 @@ When I'm not coding, I'm probably working on my other creative interests (dance,
  <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+HTML         27 mins         ██████████████████▓░░░░░░   75.15 %
+JSON         5 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.93 %
+Other        2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 %
+TypeScript   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
 ```
 
 <!--END_SECTION:waka-->
