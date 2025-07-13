@@ -20,11 +20,11 @@ When I'm not coding, I'm probably working on my other creative interests (dance,
  <!--START_SECTION:waka-->
 
 ```txt
-HTML         1 hr 25 mins    ███████████▓░░░░░░░░░░░░░   46.61 %
-TypeScript   1 hr 19 mins    ███████████░░░░░░░░░░░░░░   43.58 %
-Bash         10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
-JSON         6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
-GraphQL      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+TypeScript   3 hrs 10 mins   ████████████████▒░░░░░░░░   64.85 %
+HTML         1 hr 25 mins    ███████▒░░░░░░░░░░░░░░░░░   28.96 %
+Bash         10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
+JSON         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
+GraphQL      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->
