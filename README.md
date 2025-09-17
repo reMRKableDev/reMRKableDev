@@ -9,12 +9,11 @@ When I'm not coding, I'm probably working on my other creative interests (dance,
 
 📍 I'm currently located in Amsterdam, NL.
 
-🔭 I currently work as Head of Development at [Stage Entertainment](https://www.stage-entertainment.com/).
+🔭 I currently work as Head of IT Development at [Stage Entertainment](https://www.stage-entertainment.com/).
 
 🌱 I’m currently getting back to having fun with building small projects.
 
-🥅  My goals for the upcoming year are: 
- - To keep building more when I can
+🥅  My goal for the upcoming year are to keep building more when I can
  
 🧑🏾‍💻 My weekly development towards my goals this year: 
  <!--START_SECTION:waka-->
