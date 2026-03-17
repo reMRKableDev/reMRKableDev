@@ -19,7 +19,9 @@ When I'm not coding, I'm probably working on my other creative interests (dance,
  <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TypeScript   28 mins               ████████████████████████▒   96.79 %
+YAML         0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
+JSON         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
 ```
 
 <!--END_SECTION:waka-->
