@@ -19,11 +19,11 @@ When I'm not coding, I'm probably working on my other creative interests (dance,
  <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 1 min            ████████████▓░░░░░░░░░░░░   50.52 %
-YAML         54 mins               ███████████▒░░░░░░░░░░░░░   45.06 %
-Smarty       4 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
-Docker       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
-Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+TypeScript   1 hr 47 mins          ████████████████░░░░░░░░░   63.84 %
+YAML         55 mins               ████████▒░░░░░░░░░░░░░░░░   32.96 %
+Smarty       4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
+Docker       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
