@@ -19,11 +19,8 @@ When I'm not coding, I'm probably working on my other creative interests (dance,
  <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 41 mins          ████████████████░░░░░░░░░   64.16 %
-YAML         51 mins               ████████░░░░░░░░░░░░░░░░░   32.43 %
-Smarty       4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
-Docker       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
-Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+TypeScript   45 mins               ████████████████████████▓   98.69 %
+YAML         0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
 ```
 
 <!--END_SECTION:waka-->
